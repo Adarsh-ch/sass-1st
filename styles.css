@@ -1,0 +1,16 @@
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid red;
+}
+
+h1 {
+  color: red;
+}/*# sourceMappingURL=styles.css.map */
